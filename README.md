@@ -1,0 +1,1 @@
+A simple button click rock paper scissors game against the computer. You can continue the rounds to see who wins the most games. Just click one of the buttons to get started and wait for the computer's response!
